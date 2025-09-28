@@ -1,0 +1,14 @@
+d:\Python\C#\SumaApp\bin\Debug\net9.0\SumaApp.exe
+d:\Python\C#\SumaApp\bin\Debug\net9.0\SumaApp.deps.json
+d:\Python\C#\SumaApp\bin\Debug\net9.0\SumaApp.runtimeconfig.json
+d:\Python\C#\SumaApp\bin\Debug\net9.0\SumaApp.dll
+d:\Python\C#\SumaApp\bin\Debug\net9.0\SumaApp.pdb
+d:\Python\C#\SumaApp\obj\Debug\net9.0\SumaApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Python\C#\SumaApp\obj\Debug\net9.0\SumaApp.AssemblyInfoInputs.cache
+d:\Python\C#\SumaApp\obj\Debug\net9.0\SumaApp.AssemblyInfo.cs
+d:\Python\C#\SumaApp\obj\Debug\net9.0\SumaApp.csproj.CoreCompileInputs.cache
+d:\Python\C#\SumaApp\obj\Debug\net9.0\SumaApp.dll
+d:\Python\C#\SumaApp\obj\Debug\net9.0\refint\SumaApp.dll
+d:\Python\C#\SumaApp\obj\Debug\net9.0\SumaApp.pdb
+d:\Python\C#\SumaApp\obj\Debug\net9.0\SumaApp.genruntimeconfig.cache
+d:\Python\C#\SumaApp\obj\Debug\net9.0\ref\SumaApp.dll
