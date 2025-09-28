@@ -1,0 +1,14 @@
+d:\Python\C#\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.exe
+d:\Python\C#\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.deps.json
+d:\Python\C#\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.runtimeconfig.json
+d:\Python\C#\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.dll
+d:\Python\C#\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.pdb
+d:\Python\C#\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+d:\Python\C#\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.AssemblyInfoInputs.cache
+d:\Python\C#\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.AssemblyInfo.cs
+d:\Python\C#\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+d:\Python\C#\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.dll
+d:\Python\C#\QuadraticEquation\obj\Debug\net9.0\refint\QuadraticEquation.dll
+d:\Python\C#\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.pdb
+d:\Python\C#\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.genruntimeconfig.cache
+d:\Python\C#\QuadraticEquation\obj\Debug\net9.0\ref\QuadraticEquation.dll
