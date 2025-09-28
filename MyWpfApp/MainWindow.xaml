@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfQuadraticEquation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Обчислення s" Height="250" Width="250">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Значення x:" Grid.Row="0" Grid.Column="0" Margin="5"/>
+        <TextBox x:Name="txtX" Grid.Row="0" Grid.Column="1" Margin="5"/>
+
+        <TextBlock Text="Значення y:" Grid.Row="1" Grid.Column="0" Margin="5"/>
+        <TextBox x:Name="txtY" Grid.Row="1" Grid.Column="1" Margin="5"/>
+
+        <TextBlock Text="Значення z:" Grid.Row="2" Grid.Column="0" Margin="5"/>
+        <TextBox x:Name="txtZ" Grid.Row="2" Grid.Column="1" Margin="5"/>
+
+        <Button Content="Обчислити" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" 
+                Margin="5" Click="BtnCalculate_Click"/>
+    </Grid>
+</Window>
