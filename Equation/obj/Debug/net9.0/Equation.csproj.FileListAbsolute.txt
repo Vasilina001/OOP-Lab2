@@ -1,0 +1,14 @@
+d:\Python\C#\Equation\bin\Debug\net9.0\Equation.exe
+d:\Python\C#\Equation\bin\Debug\net9.0\Equation.deps.json
+d:\Python\C#\Equation\bin\Debug\net9.0\Equation.runtimeconfig.json
+d:\Python\C#\Equation\bin\Debug\net9.0\Equation.dll
+d:\Python\C#\Equation\bin\Debug\net9.0\Equation.pdb
+d:\Python\C#\Equation\obj\Debug\net9.0\Equation.GeneratedMSBuildEditorConfig.editorconfig
+d:\Python\C#\Equation\obj\Debug\net9.0\Equation.AssemblyInfoInputs.cache
+d:\Python\C#\Equation\obj\Debug\net9.0\Equation.AssemblyInfo.cs
+d:\Python\C#\Equation\obj\Debug\net9.0\Equation.csproj.CoreCompileInputs.cache
+d:\Python\C#\Equation\obj\Debug\net9.0\Equation.dll
+d:\Python\C#\Equation\obj\Debug\net9.0\refint\Equation.dll
+d:\Python\C#\Equation\obj\Debug\net9.0\Equation.pdb
+d:\Python\C#\Equation\obj\Debug\net9.0\Equation.genruntimeconfig.cache
+d:\Python\C#\Equation\obj\Debug\net9.0\ref\Equation.dll
